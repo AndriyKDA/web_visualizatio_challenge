@@ -1,5 +1,5 @@
 // READ DATA
-const url = "/data/samples.json";
+const url = "./data/samples.json";
 const dataread = d3.json(url);
 console.log(dataread);
 
